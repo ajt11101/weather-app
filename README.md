@@ -1,5 +1,5 @@
 # weather-app
-Simple app built using HTML and CSS.I have used RapidAPI to fetch the weather data.
+Simple app built using HTML,CSS and JavaScript.I have used RapidAPI to fetch the weather data.
 
 ## preview
 
